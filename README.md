@@ -1,8 +1,10 @@
-# AcordeDigital
+# AcordeDigital - caso de uso: realizar login 
 Reposistório para o sistema Acorde Digital. Sistema de uma loja de instrumentos musicais, aluguel de estúdio e instrumentos, consertos e reparos. 
 
 🎸 Acorde Digital - Realizar Login 🎶
 Acorde Digital é um sistema de loja virtual focado no universo da música. Este repositório contém a implementação da página de login, que faz parte do caso de uso Realizar Login.
+Caso de uso escolhido: realizar login
+
 
 📝 Descrição do Projeto
 A página de login oferece uma interface simples, intuitiva e moderna, permitindo que os usuários acessem suas contas no sistema Acorde Digital.
